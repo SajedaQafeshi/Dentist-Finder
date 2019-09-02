@@ -1,0 +1,10 @@
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\bin\Debug\Dentist Finder.exe.config
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\bin\Debug\Dentist Finder.exe
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\bin\Debug\Dentist Finder.pdb
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist Finder.csprojAssemblyReference.cache
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist_Finder.Properties.Resources.resources
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist Finder.csproj.GenerateResource.cache
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist Finder.csproj.CoreCompileInputs.cache
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist Finder.exe
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist Finder.pdb
+C:\Users\Sajeda Qafeshi\source\repos\Dentist Finder\Dentist Finder\obj\Debug\Dentist_Finder.NewDentist.resources
